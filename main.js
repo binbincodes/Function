@@ -68,4 +68,9 @@ sum1(1,1)
 sum2(2,3)
 sum3(3,6)
 
+//hositing
+const data = 1
+console.log(data)
 
+// var data = 1
+// console.log(data)
