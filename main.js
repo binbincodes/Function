@@ -1,3 +1,5 @@
+//  return => console.log
+
 function addName(firstname, lastname) {
     console.log('nama depan:', firstname)
     console.log('nama belakang:', lastname)
